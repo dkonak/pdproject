@@ -1,0 +1,1 @@
+Programın .exe uzantılı masaüstü uygulaması: \MathProf\bin\Debug klasöründedir.
