@@ -1,0 +1,12 @@
+C:\Users\ykonc\OneDrive\Masaüstü\PD\MathProf\bin\Debug\MathProf.exe.config
+C:\Users\ykonc\OneDrive\Masaüstü\PD\MathProf\bin\Debug\MathProf.exe
+C:\Users\ykonc\OneDrive\Masaüstü\PD\MathProf\bin\Debug\MathProf.pdb
+C:\Users\ykonc\OneDrive\Masaüstü\PD\MathProf\obj\Debug\MathProf.csprojAssemblyReference.cache
+C:\Users\ykonc\OneDrive\Masaüstü\PD\MathProf\obj\Debug\MathProf.Properties.Resources.resources
+C:\Users\ykonc\OneDrive\Masaüstü\PD\MathProf\obj\Debug\MathProf.csproj.GenerateResource.cache
+C:\Users\ykonc\OneDrive\Masaüstü\PD\MathProf\obj\Debug\MathProf.csproj.CoreCompileInputs.cache
+C:\Users\ykonc\OneDrive\Masaüstü\PD\MathProf\obj\Debug\MathProf.exe
+C:\Users\ykonc\OneDrive\Masaüstü\PD\MathProf\obj\Debug\MathProf.pdb
+C:\Users\ykonc\OneDrive\Masaüstü\PD\MathProf\obj\Debug\MathProf.Matematik.resources
+C:\Users\ykonc\OneDrive\Masaüstü\PD\MathProf\obj\Debug\MathProf.AnaSayfa.resources
+C:\Users\ykonc\OneDrive\Masaüstü\PD\MathProf\obj\Debug\MathProf.Simülasyon.resources
