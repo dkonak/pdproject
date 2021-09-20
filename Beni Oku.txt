@@ -1,1 +1,2 @@
 Programın .exe uzantılı masaüstü uygulaması: \MathProf\bin\Debug klasöründedir.
+ekip toplantı linki : https://drive.google.com/drive/folders/1ZsT5oXiUVLFiJ3eQ0Bfve5YSFGMj8Z3P?usp=sharing
